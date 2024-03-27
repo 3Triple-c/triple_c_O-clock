@@ -102,5 +102,5 @@ body.dark {
 }
 @media only screen and (max-width: 600px) {
     .calculator {
-        max-width: 90%;
+        max-width: 80%;
     }
